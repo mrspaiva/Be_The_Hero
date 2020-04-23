@@ -1,4 +1,6 @@
-# Be_The_Hero 
+# Be_The_Hero  <img src={logoImg} >
+
+  
 Projeto resultado da Semana Omnistack 11 da Rocketseat.
 
 ## 💻 Projeto 
