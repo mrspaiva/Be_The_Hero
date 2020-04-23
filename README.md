@@ -1,6 +1,4 @@
-# Be_The_Hero  <img src={logoImg} >
-
-  
+# Be The Hero  
 Projeto resultado da Semana Omnistack 11 da Rocketseat.
 
 ## 💻 Projeto 
@@ -13,3 +11,4 @@ Projeto resultado da Semana Omnistack 11 da Rocketseat.
 - ReactJS
 - React Native
 - Expo
+- Jest
