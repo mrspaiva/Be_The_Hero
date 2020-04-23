@@ -1,5 +1,8 @@
-# Be The Hero  
+![](frontend/src/assets/logo.svg)
+
+# 🏃 Be The Hero   
 Projeto resultado da Semana Omnistack 11 da Rocketseat.
+
 
 ## 💻 Projeto 
 - Be The Hero é uma plataforma para cadastro de casos de ONG's, buscando ajuda de pessoas solidárias a lutar por suas causas.
