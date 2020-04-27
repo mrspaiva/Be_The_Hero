@@ -1,6 +1,5 @@
 ![](frontend/src/assets/logo.svg)
 
-# 🏃 Be The Hero   
 Projeto resultado da Semana Omnistack 11 da Rocketseat.
 
 
